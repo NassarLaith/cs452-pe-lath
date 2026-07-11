@@ -1,0 +1,13 @@
+.resume {
+  background-color: #bdfb04;
+  text-align: center;
+  padding: 1% 20%
+}
+/* padding: 1% 20% */
+/* 1% -> targets top and bottom, 20% -> targets left and right */
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+/* Takes away bullet points and cleans up */
