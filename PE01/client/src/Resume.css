@@ -10,4 +10,9 @@ ul {
   list-style: none;
   padding: 0;
 }
+
+
+li {
+  padding: 1%;
+}
 /* Takes away bullet points and cleans up */
